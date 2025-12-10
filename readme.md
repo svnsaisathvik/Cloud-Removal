@@ -49,10 +49,9 @@ Landsat → Sentinel-2 (10m/20m/60m)
 
 ## 4. Repository Structure
 ```
-unet/                       # U-Net fusion pathway
+unet4/                       # U-Net fusion pathway
 timegate/                   # TimeGate implementation
-terramind_finetuning/       # TerraMind foundation model fine-tuning
-data/                       # Dataset storage
+finetune_final/       # TerraMind foundation model fine-tuning
 ```
 
 ## 5. Models Used
